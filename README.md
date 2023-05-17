@@ -9,3 +9,7 @@
 * Documentação do Laravel: [Documentação](https://laravel.com/docs/10.x)
 * [Composer](https://getcomposer.org/doc/)
 * Comando para executar o serviço em porta definida: php artisan serve --port *porta*
+
+## Rotas usadas:
+* / => '{"/hello": "Hello, World!"}'
+/hello => "Hello, World!"
