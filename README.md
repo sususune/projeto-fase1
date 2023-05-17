@@ -11,5 +11,5 @@
 * Comando para executar o serviço em porta definida: php artisan serve --port *porta*
 
 ## Rotas usadas:
-* / => '{"/hello": "Hello, World!"}'
-/hello => "Hello, World!"
+* / - Que retorna o JSON '{"/hello": "Hello, World!"}'
+* /hello - Que retorna "Hello, World!"
